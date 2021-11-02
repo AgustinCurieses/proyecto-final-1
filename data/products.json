@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "test",
+    "descripcion": "tests asd",
+    "codigo": 1002,
+    "foto": "asda23sd",
+    "precio": "10",
+    "stock": 2,
+    "id": 1,
+    "timestamp": 1635784253225
+  },
+  {
+    "nombre": "test",
+    "descripcion": "tests asd",
+    "codigo": 1002,
+    "foto": "asda23sd",
+    "precio": "10",
+    "stock": 2,
+    "id": 2,
+    "timestamp": 1635784254116
+  },
+  {
+    "nombre": "test",
+    "descripcion": "tests asd",
+    "codigo": 1002,
+    "foto": "asda23sd",
+    "precio": "10",
+    "stock": 2,
+    "id": 3,
+    "timestamp": 1635784254697
+  },
+  {
+    "nombre": "test",
+    "descripcion": "tests asd",
+    "codigo": 1002,
+    "foto": "asda23sd",
+    "precio": "10",
+    "stock": 2,
+    "id": 4,
+    "timestamp": 1635784255146
+  },
+  {
+    "nombre": "test",
+    "descripcion": "tests asd",
+    "codigo": 1002,
+    "foto": "asda23sd",
+    "precio": "10",
+    "stock": 2,
+    "id": 5,
+    "timestamp": 1635784255501
+  }
+]
